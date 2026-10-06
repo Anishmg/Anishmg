@@ -20,7 +20,7 @@ cutting cloud costs.
 - 🔐 **Cloud Security** — IAM least-privilege governance and infrastructure hardening
 
 ### 📌 Featured work
-See my **[DevOps & SRE Portfolio](https://github.com/Anishmg/devops-portfolio)** — 21 write-ups covering infrastructure, reliability, cost, and deployment work. Highlights:
+See my **[DevOps & SRE Portfolio](https://github.com/Anishmg/devops-portfolio)** — 32 write-ups covering infrastructure, reliability, cost, and deployment work. Highlights:
 - 📉 [EKS cost optimization](https://github.com/Anishmg/devops-portfolio/tree/main/02-eks-cost-optimization) — Karpenter consolidation + 89% CloudWatch cut
 - 🛡️ [Kyverno policy-as-code](https://github.com/Anishmg/devops-portfolio/tree/main/19-kyverno-policy) — deletion guardrails across 21 namespaces
 - 🔭 [Observability stack](https://github.com/Anishmg/devops-portfolio/tree/main/17-observability-stack) — Prometheus/Grafana/Loki at ~100-node scale
