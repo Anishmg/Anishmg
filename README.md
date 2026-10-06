@@ -10,19 +10,19 @@ cutting cloud costs.
 - **Cloud:** AWS (EKS, IAM, Lambda, CloudFront, S3, RDS), GCP
 - **Kubernetes:** EKS, Helm, Kustomize, Karpenter, ArgoCD, Kyverno, Velero
 - **IaC:** Terraform, Terragrunt
-- **CI/CD:** GitHub Actions, Jenkins
+- **CI/CD:** GitHub Actions (OIDC)
 - **Databases:** MongoDB, PostgreSQL, ClickHouse, Redis
 - **Observability:** Prometheus, Grafana, Loki, Langfuse
 
 ### 🎯 What I focus on
 - 🔧 **Site Reliability** — root-cause analysis and production incident response
-- 💰 **FinOps** — cloud cost optimization (recently cut one cluster's compute spend ~40% and CloudWatch costs by ~89%)
+- 💰 **FinOps** — cloud cost optimization (recently cut one cluster's compute spend ~34% and CloudWatch costs by ~89%)
 - 🔐 **Cloud Security** — IAM least-privilege governance and infrastructure hardening
 
 ### 📌 Featured work
 See my **[DevOps & SRE Portfolio](https://github.com/Anishmg/devops-portfolio)** — 21 write-ups covering infrastructure, reliability, cost, and deployment work. Highlights:
 - 📉 [EKS cost optimization](https://github.com/Anishmg/devops-portfolio/tree/main/02-eks-cost-optimization) — Karpenter consolidation + 89% CloudWatch cut
-- 🛡️ [Kyverno policy-as-code](https://github.com/Anishmg/devops-portfolio/tree/main/19-kyverno-policy) — deletion guardrails across 24 namespaces
+- 🛡️ [Kyverno policy-as-code](https://github.com/Anishmg/devops-portfolio/tree/main/19-kyverno-policy) — deletion guardrails across 21 namespaces
 - 🔭 [Observability stack](https://github.com/Anishmg/devops-portfolio/tree/main/17-observability-stack) — Prometheus/Grafana/Loki at ~100-node scale
 - 💾 [MongoDB backup system](https://github.com/Anishmg/devops-portfolio/tree/main/03-mongodb-backup-system) — automated, credential-safe, with alerting
 
